@@ -1,0 +1,12 @@
+{
+    "name": "dan/irm",
+    "require-dev": {
+        "phpunit/phpunit": "^8.4"
+    },
+    "autoload": {
+        "classmap": [
+            "app/",
+            "tests/"
+        ]
+    }
+}
